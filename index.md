@@ -5,7 +5,7 @@
 
 B.S. Louisiana State University, 2020
 
-[Academic CV]()
+[Academic CV](081420-GuidryCV.html)
 
 ---
 ### Fellowships
