@@ -3,20 +3,32 @@
 ---
 ### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+B.S. Louisiana State University, 2020
+
+[Academic CV]()
 
 ---
-### Work Experience
-
-
----
-### Recent Projects
-
-
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+### Fellowships
+NSF Graduate Research Fellowship
+NSF-REU, UC Santa Barbara 
+NSF-REU, UT Knoxville
 
 ---
+### Publications
+
+Michael W. Henson, **Megan Guidry**, M. Katherine Carnes, and J. Cameron Thrash. Draft genome sequence of the novel coastal bacterium LSUCC0115 from the MWH-UniPo clade, Order *Burkholderiales*, Class Betaproteobacteria.
+
+---
+### Oral Presentations
+
+**April 6, 2019** 	
+“Diversity of Crassostrea virginica microbiome across different salinity regimes in the Northern Gulf of Mexico” Benthic Ecology Meeting, St John’s, Newfoundland, Canada.  
+
+**August 15, 2019**	
+“Living on Burrowed Time: Effects of coarse fill sand on burrowing time of intertidal macroinvertebrates” Ocean Global Change REU Symposium, Santa Barbara, CA. 
+
+**January 4, 2020**	
+“Variation in the Eastern Oyster Microbiome in Coastal Louisiana” Society for Integrative and Comparative Biology Meeting, Austin, TX. 
 
 
 
