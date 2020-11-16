@@ -3,8 +3,7 @@
 ---
 ### Education
 
-B.S. Louisiana State University, 2020
-
+B.S. Louisiana State University, 2020   return 
 Honors Thesis: *Diversity of the Eastern Oyster Microbiome across Tissue, Secretion, Space, and Time in the Northern Gulf of Mexico*
 	Advisor: Dr. Morgan Kelly
 
@@ -27,12 +26,12 @@ Michael W. Henson, **Megan Guidry**, M. Katherine Carnes, and J. Cameron Thrash.
 
 ---
 ### Experience
-2020-present	
+2020-present	return
 NSF Graduate Research Fellow, Research Assistant 
 University of Rhode Island, Kingston
 Dr. Jonathan Puritz
 
-2016-2020
+2016-2020    return
 Louisiana Service and Leadership (LASAL) Scholar
 Selected cohort of LSU Ogden Honors College students focused on the critical issues of poverty and wetland loss in Louisiana. 
 
