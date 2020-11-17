@@ -1,4 +1,5 @@
 ## Bio
+Louisiana native transplanted to New England to study oysters! \U0001F9AA
 
 ---
 ### Education
@@ -12,59 +13,27 @@ B.S. Louisiana State University, 2020
 
 ---
 ### Fellowships
-NSF Graduate Research Fellowship
-
-NSF-REU, UC Santa Barbara 
-
+NSF Graduate Research Fellowship  
+NSF-REU, UC Santa Barbara   
 NSF-REU, UT Knoxville
+
+---
+### Experience
+**Currently:  
+NSF Graduate Research Fellow, Research Assistant**  
+University of Rhode Island, Kingston  
+Dr. Jonathan Puritz
+
+
+**From 2016-2020:    	
+Undergraduate Researcher, LSU Biological Sciences Department**  
+Louisiana State University, Baton Rouge  	
+
 
 ---
 ### Publications
 
 Michael W. Henson, **Megan Guidry**, M. Katherine Carnes, and J. Cameron Thrash. Draft genome sequence of the novel coastal bacterium LSUCC0115 from the MWH-UniPo clade, Order *Burkholderiales*, Class Betaproteobacteria.
-
----
-### Experience
-**2020-present  
-NSF Graduate Research Fellow, Research Assistant**  
-University of Rhode Island, Kingston  
-Dr. Jonathan Puritz
-
-**2016-2020  
-Louisiana Service and Leadership (LASAL) Scholar**  
-Selected cohort of LSU Ogden Honors College students focused on the critical issues of poverty and wetland loss in Louisiana.  
-
-**2018-2020  	
-Undergraduate Researcher, LSU Biological Sciences Department**  
-Louisiana State University, Baton Rouge  
-Dr. Morgan Kelly	
-
-**Spring 2019    	
-Research Intern**  
-The Water Institute of the Gulf (Baton Rouge, LA)  
-Dr. Melissa Baustian		
-
-**Summer 2019   	  
-Ocean Global Change REU: Undergraduate Research Intern**  
-University of California Santa Barbara  
-Dr. Jenny Dugan 
-
-**Summer 2018  	
-Microbial Community Interactions and Functions REU: Undergraduate Research Intern**  
-University of Tennessee, Knoxville   
-Dr. Drew Steen
-
-**2017-2018  	
-Undergraduate Researcher, LSU Biological Sciences Department**   
-Louisiana State University, Baton Rouge  
-Dr. Cameron Thrash		
-
-**2016-2017   	
-Undergraduate Researcher, LSU Biological Sciences Department**   
-Louisiana State University, Baton Rouge  
-Dr. Vincent LiCata
-
-
 
 ---
 ### Oral Presentations
