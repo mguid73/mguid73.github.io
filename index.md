@@ -1,5 +1,5 @@
 ## Bio
-Louisiana native transplanted to New England to study oysters! \U0001F9AA
+Louisiana native transplanted to New England to study oysters! :oyster:
 
 ---
 ### Education
